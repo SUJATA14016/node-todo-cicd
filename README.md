@@ -15,5 +15,5 @@ Run these commands:
 
 or Run by docker compose
 
-npm run test ;
+npm run test
 
